@@ -11,7 +11,7 @@ O objetivo principal desta aplicação é tratar as bases de dados brutas de Imp
 ## Graficos 
 ![Grafico Geral do Brasil](graficogeral.png)
 ![Grafico Geral do Brasil](graficogeral2.png)
-![Grafico Geral dos municipios do Brasil](graficomunicipio1.png)
+![Grafico Geral dos municipios do Brasil](graficominicipio1.png)
 ![Grafico Geral dos municipios do Brasil](graficomunicipio2.png)
 
 
