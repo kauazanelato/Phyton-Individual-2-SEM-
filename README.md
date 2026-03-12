@@ -8,11 +8,13 @@ O objetivo principal desta aplicação é tratar as bases de dados brutas de Imp
 
 **Nota Acadêmica:** Este projeto é referente a uma atividade desenvolvida para a FATEC Jessen Vidal. Trata-se da atualização e reaproveitamento de um código estruturado no semestre anterior (que contemplava os anos de 2023, 2024 e 2025), agora expandido e validado para incluir o processamento dos dados consolidados do ano de **2026**. Utilizando agora de codigos para formular graficos como:
 
-## Graficos 
-![Grafico Geral do Brasil](graficogeral.png)
-![Grafico Geral do Brasil](graficogeral2.png)
-![Grafico Geral dos municipios do Brasil](graficominicipio1.png)
-![Grafico Geral dos municipios do Brasil](graficomunicipio2.png)
+## 📊 Graficos das exportações e importações
+![Grafico Geral do Brasil](expgeral.png)
+![Grafico Geral do Brasil](impgeral.png)
+
+## 📊 Graficos das exportações e importações de municipíos
+![Grafico Geral dos municipios do Brasil](expmuni.png)
+![Grafico Geral dos municipios do Brasil](impmuni.png)
 
 
 ## ⚙️ Estrutura do Projeto
